@@ -100,5 +100,4 @@ This project is currently licensed under the Apache License Version 2.0. A copy 
 
 ## Maintainers and Developers
 This repository is owned and maintained by 
- * [Sajal Jain](https://github.com/sjain30)
- * [Saksham Pruthi](https://github.com/sakshampruthi)
+ * [Arshnoor](https://github.com/nxxr-07)
